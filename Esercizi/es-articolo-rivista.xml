@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<!-- xml-model href="tei-lite.rng"?> -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI version="4.0.1" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<!-- <encodngDesc></encodngDesc>-->
+<fileDesc>
+<titleStmt>
+<!-- Sezione per la codifica del titolo del testo digitale -->
+<title>La Divina Commedia: versione elettronica</title>
+<author>Dante Alighieri</author>
+<editor>Angelo Mario Del Grosso</editor> <!-- chi ha fatto scelte di cura editoriale -->
+<respStmt>
+<resp>Conversione TEI P5 a cura di</resp>
+<name>S. Solimani</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<!-- Sezione per la codifica dei dati di diffusione e distribuzione dell'edizione digitale -->
+<publisher>Università di Pisa</publisher>
+<date>2002-11-07</date>
+<availability status="restricted">
+<p>Accesso riservato</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<!-- Descrizione della fonte primaria -->
+<bibl>
+<title>La Divina Commedia</title>
+<author>Dante Alighieri</author>
+<publisher>Mondadori</publisher>
+<date>1988</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<div> 
+<!-- Esercizio 23/24 - p. 3 https://digital-library.cdec.it/cdec-web/viewer/cdecxDamsHist003/IT-CDEC-ST0003-000032#page/3/mode/1up -->
+<p> <date when="1920-04-25">25 aprile 1920</date> - <date when="1940-07-29"> 29 luglio 1940 </date> - Vent'anni:
+afferra il limitare della vita - ma breve e lumino-
+sa veramente come fece il ricordo marmorea
+<add place="supralinear"><gap reason="illegible">renne feama</gap> si <gap reason="illegible">uccunde</gap> che si svolgono fra casa e scuola,</add>
+promessa, speranza, disagio. Concedete a chi<r /> 
+<add place="supralinear">a formarsi, e lo sbocciare di un <gap reason="missing">'</gap>anima eletta, di un'intelligenza</add>
+l'ha conosciuto nella prima infanzia, d'allora<r />
+<add place="supralinear">eccezionale:</add>
+se anche i ricordi di quei primi anni, <corr>do</corr>felici.<r />
+<gap reason="canceled">quando si apriva giocondamente alla vita</gap><r />
+<persName>Ninni</persName>, allora! un batuffolo fossuto, tutto<r />
+fossette, due grandi occhi ridenti, una testi-<r />
+na tutta ricci: ecco la figuretta che mi di-<r />
+segna il ricordo, contro lo sfondo maestoso del <placeName>Monte Bianco</placeName> nel sole che sfolgora su<r />
+lo stradone di <placeName>Morgex</placeName> - oggi <placeName>Valdigua</placeName>,<r />
+Ninni ha poco più di due anni: in lui tutto<r />
+spira la gioia: è tanto bello che un segno-<r />
+re ferma <name>la mamma</name> per la strada e con<r />
+vera <gap reason="illegible">ricchenza</gap> e larghe promesse vuole <gap reason="illegible">no<r />
+dierla</gap> a portare il piccino in uno studio<r />
+cinematografico per scritturarlo.<r /><!-- contenuto testuale --> </p> 
+<p> L'offerta è naturalmente rifiutata e Ni-<r />
+nni non si rende conto dei suoi successi.<r />
+Nessun turbamento ha lasciato nella<r />
+sua personcina un grande spavento prova-<r />
+to dalla sua <name>mamma</name> quando egli do-<r />
+veva: egli è vivace, chiacchiereccio,<r />
+ragionevole nel tempo stesso: pochi eran<r />  
+</p>
+</div>
+</text>
+<facsimile></facsimile>
+</TEI>

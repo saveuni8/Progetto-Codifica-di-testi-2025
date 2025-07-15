@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI version="4.0.1" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<!-- Sezione per la codifica del titolo del testo digitale -->
+<title>La retorica</title>
+<respStmt>
+<resp>Conversione TEI P5 a cura di</resp>
+<persName>S. Solimani</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<!-- Sezione per la codifica dei dati di diffusione e distribuzione dell'edizione digitale -->
+<publisher>Wikipedia</publisher>
+</publicationStmt>
+<sourceDesc>
+<!-- Descrizione della fonte primaria -->
+<p>Nativo digitale: non esiste alcuna fonte precedente</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div> 
+<!-- Esercizio 24/25 - TEi pt. 2 - s. 36 -->
+<p>In realtà, va detto che la retorica non si riduce affatto a una materia d'insegnamento, da trasmettere nelle scuole ed esercitare in maniera pedissequa; al contrario, come scrive Roland Barthes,[11] la retorica è a sua volta anche:
+<list>
+<item>una scienza, <gloss>in quanto studia in maniera rigorosa i fenomeni e gli effetti del linguaggio; 
+<ptr target="https://it.wikipedia.org/wiki/Retorica"/>
+<note></note>
+<note></note>
+</gloss></item>
+<item>una morale, <gloss>poiché la capacità di sfruttare ambiguità della lingua la rende un'arma potente, che richiede un codice morale per essere esercitata senza arrecare danni;</gloss></item>
+<item>una pratica sociale, <gloss>poiché nell'Antichità differenziava i potenti (chi ha accesso all'arte della persuasione) dai sudditi (coloro che soccombono al potere ammaliante della parola);</gloss></item>
+<item>una pratica ludica, un giocare con le parole e la lingua (parodie, scherzi, doppi sensi).</item>
+</list>
+</p>
+</div>
+<body>
+</text>
+<TEI>
