@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- documento xml da validare -->
+<!-- 
+    file: esercizio-doc-da-validare
+    nome: SAVERIO SOLIMANI
+    data: 19 marzo 2025
+-->
+
+<!-- corpo del documento XML-->
+<elementoRadice>
+    <elementoFiglio>
+        <elementoAnnidato>
+        </elementoAnnidato>
+    </elementoFiglio>
+    <elementoFiglio>
+        <elementoAnnidato>
+            <elementoAnnidato>
+            <elementoFiglio> <!-- [Fatal Error] doc.xml:19:11: The element type "elementoFiglio" must be terminated by the matching end-tag "</elementoFiglio>"
+                Aggiunto tag di chiusura di elementoFiglio--> 
+            </elementoFiglio>
+            <!-- [Fatal Error] doc.xml:20:7: The element type "elementoAnnidato" must be terminated by the matching end-tag "</elementoAnnidato>"
+                Aggiunto tag di chiusura di elementoAnnidato in modo da rispettare gerarchi e ordine di apertura tag
+                Ma in realtà non avere vocabolario di riferimento non ci limita nella struttura dei tag ma solo nelle regole fondamentali -->
+        </elementoAnnidato>
+    </elementoFiglio>
+        <elementoAnnidato><elementoFiglio></elementoFiglio>
+            <!-- [Fatal Error] doc.xml:23:7: The element type "elementoAnnidato" must be terminated by the matching end-tag "</elementoAnnidato>"
+            Aggiunto tag di chiusura di elementoAnnidato -->
+        </elementoAnnidato>
+    <!-- [Fatal Error] doc.xml:23:7: The element type "elementoRadice" must be terminated by the matching end-tag "</elementoRadice>"
+    Aggiunto tag di apertura di elementoFiglio -->
+    <elementoFiglio>
+    </elementoFiglio>
+</elementoRadice>
+
+<!-- epilogo -->
