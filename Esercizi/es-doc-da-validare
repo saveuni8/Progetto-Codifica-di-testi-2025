@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- documento xml da validare -->
+<!-- 
+    file: esercizio-doc-da-validare
+    nome: Saverio Solimani
+    data: 14 marzo 2025
+-->
+
+<!-- corpo del documento XML-->
+<root>
+    <saluto>
+        <p>
+            <!-- Aggiunto elemento figlio -->
+        </p>
+    </sakuto>
+        <!-- [Fatal Error] doc.xml:14:7: The element type "saluto" must be terminated by the matching end-tag "</saluto>" -->
+    <scegli>
+        <!-- Aggiunto elemento fratello -->
+        <!-- <err> testo con errore </err>
+        <cor> testo corretto &amp; 10 </cor>
+        <htmlCode>
+             il codice HTML non viene validato 
+            <![CDATA[
+                <h1>Capitolo Primo</h1>
+                <h2>Sezione Seconda</h2>
+            ]]>
+        </htmlCode> -->
+    </scegli>
+</root>
+
+<!-- epilogo -->
