@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader>
+</teiHeader>
+<text>
+<body>
+<div>
+<p>
+<htmlCode> <![CDATA[ <h1>Titolo principale<h1> <h2>Sottotitolo</h2> ]]> </htmlCode>
+</div>
+</body>
+</text>
+</TEI>
