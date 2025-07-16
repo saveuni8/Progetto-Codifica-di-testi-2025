@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI SYSTEM "tei_all.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-<TEI version="4.0.1" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.0.1">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -39,6 +38,6 @@
 </list>
 </p>
 </div>
-<body>
+</body>
 </text>
-<TEI>
+</TEI>
