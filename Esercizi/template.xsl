@@ -39,7 +39,7 @@
 
 <!--Template modificato. Utilizzo xsl:call-template per chiamare il template generate-index e passare i capitoli come parametro-->
     <xsl:template name="generate-index">
-            <xsl:variable name="chapters" />
+            <xsl:param name="chapters" />
         <xsl:for-each select="$chapters">
 <ul>
             <li>
