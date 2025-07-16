@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<!-- xml-model href="tei-lite.rng"?> -->
+<TEI version="4.0.1" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<!-- <encodngDesc></encodngDesc>-->
+<fileDesc>
+<titleStmt>
+        <title>Lettera Bellini</title>
+        <author>Vincenzo Bellini</author>
+      </titleStmt>
+  <editionStmt>
+        <edition>
+          <p>Edizione digitale di una lettera del musicista Vincenzo Bellini</p>
+          <editor></editor>
+          <editor>
+        </edition>
+  </editionStmt>
+      <publicationStmt>
+        <publisher>Istituto di Linguistica Computazionale "A. Zampolli" - CNR</publisher>
+        <date>2018</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licenza CC BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+<sourceDesc>
+<!-- Descrizione della fonte primaria -->
+ <bibl>
+          <title>EDIZIONE DIGITALE DELLE LETTERE DI VINCENZO BELLINI</title>
+          <ref target="https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/handle/20.500.11752/OPEN-1000">Collegamento al Progetto di Edizione Digitale</ref>
+          <ref target="https://bellinicorrespondence.cnr.it/evt">Collegamento alla Demo del Progetto</ref>
+ </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<surface>
+  <graphic url='bellini.png' width='573.4px' height='379.4px' />
+  <!--zone generali lettera-->
+<zone ulx="13" uly="11" lrx="281" lry="60" />
+<zone ulx="14" uly="66" lrx="280" lry="219" />
+<zone ulx="14" uly="223" lrx="281" lry="372" /> 
+<zone ulx="286" uly="6" lrx="563" lry="49" /> <!--intestazione-->
+<zone ulx="308" uly="54" lrx="557" lry="365" />
+<zone ulx="433" uly="341" lrx="557" lry="372" />
+<!--righe testo principale-->
+<zone ulx="327" uly="55" lrx="493" lry="68" start="Cod_riga1" xml:id="riga1"/>
+<zone ulx="351" uly="85" lrx="559" lry="101" />
+<zone ulx="315" uly="117" lrx="548" lry="135" />
+<zone ulx="317" uly="148" lrx="541" lry="167" />
+<zone ulx="314" uly="186" lrx="540" lry="208" />
+<zone ulx="316" uly="220" lrx="559" lry="249" />
+<zone ulx="314" uly="257" lrx="545" lry="282" />
+<zone ulx="310" uly="291" lrx="559" lry="312" />
+<zone ulx="311" uly="319" lrx="561" lry="337" />
+<zone ulx="309" uly="341" lrx="547" lry="355" />
+<!--firma-->
+<zone ulx="438" uly="357" lrx="552" lry="367" />
+</surface>
+</facsimile>
+<text>
+<body>
+<div type="letter">
+      <p>
+        <lg type="poem">
+          <l n="2" facs="#riga1" xml:id="Cod_riga1"><note type="gloss">Testo della prima riga</note></l>
+          <!-- Altre righe possono essere aggiunte qui -->
+          <l n="1"><note type="gloss" facs="#riga2">Testo della prima riga</note></l>
+          <l n="1"><note type="gloss" target="#line1">Testo della prima riga</note></l>
+          <l n="1"><note type="gloss" target="#line1">Testo della prima riga</note></l>
+          <l n="1"><note type="gloss" target="#line1">Testo della prima riga</note></l>
+          <l n="1"><note type="gloss" target="#line1">Testo della prima riga</note></l>
+          <l n="1"><note type="gloss" target="#line1">Testo della prima riga</note></l>
+          <l n="1"><note type="gloss" target="#line1">Testo della prima riga</note></l>
+          <l n="1"><note type="gloss" target="#line1">Testo della prima riga</note></l>
+          <l n="1"><note type="gloss" target="#line1">Testo della prima riga</note></l>
+        </lg>
+      </p>
+    </div>
+</body>
+</text>
+</TEI>
