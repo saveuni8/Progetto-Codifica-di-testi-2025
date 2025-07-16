@@ -5,6 +5,8 @@ Filename: cartolina.xml
 Author: Saverio Solimani
 Date: 15/06/2025
 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -17,8 +19,7 @@ Date: 15/06/2025
                 <date from="1940" to="1944-06">1940-giugno 1944</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Cartolina scritta da un anonimo riguardo l'arresto e la deportazione dell'ebreo Ettore Ghiron.</p>
-                <ref target="https://digital-library.cdec.it/cdec-web/fotografico/detail/IT-CDEC-FT0001-0000019762/ettore-ghiron-anna-croveri-ghiron-e-ragazzo.html">Sito della CDEC Digital Library</ref>
+                <p>Cartolina scritta da un anonimo riguardo l'arresto e la deportazione dell'ebreo Ettore Ghiron. Maggiori dettagli sul <ref target="https://digital-library.cdec.it/cdec-web/fotografico/detail/IT-CDEC-FT0001-0000019762/ettore-ghiron-anna-croveri-ghiron-e-ragazzo.html">Sito della CDEC Digital Library</ref></p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -50,31 +51,218 @@ Author: Saverio Solimani
 Date: 15/06/2025
 -->
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.0.1">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Codifica articolo rivista Aedon</title>
-                <author>Saverio Solimani</author>
-            </titleStmt>
-            <sourceDesc>
-                <bibl>
-                    <title level="j">Aedon</title>
-                    <editor>Il Mulino</editor>
-                    <date from="2025-01" to="2025-04">gennaio-aprile 2025</date>
-                    <biblScope unit="volume">1</biblScope>
-                    <biblScope unit="pp">1-6</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="article">
-                <head>Ricordi di archivio e di biblioteca</head>
-                <byline>di Sabino Cassese</byline>
-                <p>Questo è il <ref target="https://www.rivisteweb.it/doi/10.7390/116844">testo della rivista</ref> a libero accesso</p>
-            </div>
-        </body>
-    </text>
+                <fileDesc>
+                        <titleStmt>
+                        <title>La legislazione sociale sull'ubriachezza</title>
+                        </titleStmt>
+                        <publicationStmt>
+                        <publisher>Università di Pisa</publisher>
+                        <date when="2025">2025</date>
+                        <availability status="free">
+                            <p>Dominio pubblico</p>
+                        </availability>
+                        <pubPlace>Pisa</pubPlace>
+                        </publicationStmt>
+                        <sourceDesc>
+                        <bibl>
+                            <title level="j">
+                                Rassegna settimanale
+                                <title type="sub">di politica, scienze, lettere ed arti</title>
+                            </title>
+                            <author>
+                                <persName>
+                                Anonimo
+                            </persName>
+                            </author>
+                            <date when="1879">1879</date>
+                            <biblScope unit="volume">3</biblScope>
+                            <biblScope unit="issue">61</biblScope>
+                            <biblScope unit="page" from="161" to="162" />
+                            <pubPlace>Firenze</pubPlace>
+                            <publisher>Casa Editrice Barbèra</publisher>
+                            <edition source="https://rassegnasettimanale.animi.it/rassegna/fascicolo-69-volume-3-1879-semestre-1-trimestre-1/">
+                            </edition>
+                        </bibl>
+                        </sourceDesc>
+                    </fileDesc>
+                </teiHeader>
+                <text>
+                <body>
+                    <pb n="161"/>
+                    <!-- intestazione, prima pagina -->
+                    <fw type="header" place="top">
+                    <fw type="date" place="left">Vol. 3° 27 Aprile '79.]</fw>
+                    <fw type="title" place="center">ROMA, 2 Marzo 1879.</fw>
+                    <fw type="pageNum" place="right">N° 61.</fw>
+                    </fw>
+                    <!-- titolo, prima pagina -->
+                    <head>
+                        <title type="main">LA LEGISLAZIONE SOCIALE SULL'UBRIACHEZZA.</title>
+                    </head>
+                    <p n="1">
+                    <lb n="1" />
+                    Parecchi cittadini di <placeName>Torino</placeName> di ogni ceto sociale hanno 
+                    <lb n="2" />
+                    tenuto alcune adunanze, nelle quali esaminarono i guai 
+                    <lb n="3" />
+                    della <orig>ubbriachezza</orig><reg>ubriachezza</reg>, che si va esacerbando fra le classi lavo
+                    <lb n="4" />
+                    ratrici a <placeName>Torino</placeName>, e chiedono al <orgName>Governo</orgName> una legge severa 
+                    <lb n="5" />
+                    a similitudine di quella francese, la quale castiga i recidivi e     
+                    <lb n="6" />
+                    commina altre pene. Il <roleName>presidente</roleName> del <orgName>Consiglio dei Mini
+                    <lb n="7" />
+                    stri</orgName> ha risposto con cortese brevità, riferendosi alle con
+                    <lb n="8" />
+                    clusioni della <orgName>Commissione d’inchiesta sugli scioperi</orgName>, la 
+                    <lb n="9" />
+                    quale ha preparate alcune proposte su questa grave que
+                    <lb n="10" />
+                    stione. Infatti, la <orgName>Commissione</orgName> nelle sue escursioni e nei 
+                    <lb n="11" />
+                    suoi studi è stata afflitta dallo spettacolo della <orig>ubbriachezza</orig><reg>ubriachezza</reg>     
+                    <lb n="12" />
+                    crescente nei centri operai. Nel circondario di <placeName>Biella</placeName> le bet    
+                    <lb n="13" />
+                    tole e gli spacci del vino sono raddoppiati in pochi anni. A     
+                    <lb n="14" />
+                        ciò segnatamente contribuirono le idee del lasciar fare e del     
+                    <lb n="15" />
+                        lasciar passare. In passato si lasciavano ai <roleName>Prefetti</roleName> e ai <roleName>Que
+                    <lb n="16" />
+                        stori</roleName> alcune facoltà discrezionali ; si dava loro una certa     
+                    <lb n="17" />
+                        balia d’impedire che le bettole sorgessero una di fianco al
+                    <lb n="18" />
+                        l’altra; si stabilivano certe distanze e altre restrizioni somi
+                    <lb n="19" />
+                        glianti. Ma dopo una circolare del ministro Nicotera si rup
+                    <lb n="20" />
+                        pero le dighe. Si proclamò la libertà dei commerci anche 
+                    <lb n="21" />
+                        nelle bettole. Ognuno abbia la facoltà d’impiegar i suoi 
+                    <lb n="22" />
+                        denari e la sua opera nello spaccio di bevande spiritose. La 
+                    <cb />
+                    <pb n="162"/>
+                    <!-- intestazione, seconda pagina -->
+                    <fw type="header" place="top">
+                        <fw type="pageNum" place="left">162</fw>
+                        <fw type="title" place="center">LA RASSEGNA SETTIMANALE</fw>
+                        <fw type="issue" place="right">[Vol. 3°, N° 61.</fw>
+                    </fw>
+                    <lb n="23" />
+                        sola sanzione spetti ai consumatori, ai clienti di <orig>cotali</orig><reg>tali</reg> bet
+                    <lb n="24" />
+                        tole. Queste sono le nonne che prevalsero; e non vi fu più 
+                    <lb n="25" />
+                        freno. La <orgName>Commissione</orgName> ha raccolto dati dai quali si trae che 
+                    <lb n="26" />
+                        la moltitudine delle bettole, colle occasioni più frequenti, 
+                    <lb n="27" />
+                        accresce effettivamente la propensione all’ubbriachezza. Av
+                    <lb n="28" />
+                        viene nel male come nel bene. Le <orgName>Casse di Risparmio</orgName> fitte, 
+                    <lb n="29" />
+                        che allacciano l’artiere in una provvida rete, lo forzano alla 
+                    <lb n="30" />
+                        previdenza. Quando balena nell’anima sua il pensiero del ri
+                    <lb n="31" />
+                        sparmio, la <orgName>Cassa di Risparmio</orgName> vicina glielo imprigiona, 
+                    <lb n="32" />
+                        glielo concreta, senza lasciargli il tempo ai pentimenti. Per 
+                    <lb n="33" />
+                        certo, quando l'artiere per recarsi dalla fabbrica alla sua casa, 
+                    <lb n="34" />
+                        che non sempre è un soggiorno dei più piacevoli, trova 
+                    <lb n="35" />
+                        per via molte bettole, l’allettamento e la seduzione supe
+                    <lb n="36" />
+                        rano la sua virtù di resistenza e finisce per cedere. A tale 
+                    <lb n="37" />
+                        <orig>uopo</orig><reg>scopo</reg> occorre l’ingerenza dello <orgName>Stato</orgName>, che regoli a fondo 
+                    <lb n="38" />
+                        tutta questa materia delicata. Ma si farà ciò per atto pru
+                    <lb n="39" />
+                        dente e arbitrario del <orgName>Governo</orgName> o per legge speciale ? Questo 
+                    <lb n="40" />
+                        è il problema. Gli <rs type="nationality">Italiani</rs>, e segnatamente gli avvocati de
+                    <lb n="41" />
+                        putati hanno un sacro orrore delle leggi speciali. Non ca
+                    <lb n="42" />
+                        piscono che i grandi codici. E tutti questi provvedimenti 
+                    <lb n="43" />
+                        sull’ubbriachezza, sulla emigrazione, sul lavoro di fanciulli 
+                    <lb n="44" />
+                        nelle fabbriche, li considerano come capitoli non di una 
+                    <lb n="45" />
+                        legge, ma di un regolamento di pubblica sicurezza. Noi 
+                    <lb n="46" />
+                        portiamo un avviso interamente opposto. Noi crediamo che 
+                    <lb n="47" />
+                        quando si tratta di limitare la libertà umana, sia necessa
+                    <lb n="48" />
+                        ria una legge precisa e chiara. In questi casi i provvedi
+                    <lb n="49" />
+                        menti sono complessi e appartengono alla legislazione so    
+                    <lb n="50" />
+                        ciale in questo senso che fondono insieme elementi econo
+                    <lb n="51" />
+                        mici, giuridici, morali, i quali collettivamente conserti com
+                    <lb n="52" />
+                        pongono un corpo nuovo. Com’è lecito pensare che leggi di 
+                    <lb n="53" />
+                        tale specie, così fini, delicate e complicate possano essere     
+                    <lb n="54" />
+                        argomento di regolamenti abborracciati nei <orgName>Ministeri</orgName> o 
+                    <lb n="55" />
+                        nelle <orgName>Questure</orgName>? Non è lecito pensarlo. E invero gli <rs type="nationality">inglesi</rs>, 
+                    <lb n="56" />
+                        che fino ad ora sono i maestri in <orig>cotali</orig><reg>tali</reg> materie, hanno pro
+                    <lb n="57" />
+                        mulgato leggi speciali molto minute, che essi correggono 
+                    <lb n="58" />
+                        continuamente per conformarle alle mutevoli condizioni di 
+                    <lb n="59" />
+                        fatto. Sulla <orig>ubbriachezza</orig> vi sono in <placeName>Inghilterra</placeName> molte leggi 
+                    <lb n="60" />
+                        recenti, che si completano gradatamente e contengono an
+                    <lb n="61" />
+                        che le linee principali dei loro regolamenti, che i corpi locali 
+                    <lb n="62" />
+                        si vanno elaborando. Le leggi contengono la indicazione delle 
+                    <lb n="63" />
+                        ore nelle quali si devono chiudere le varie bettole, e nelle 
+                    <lb n="64" />
+                        città grandi e nei borghi vennero prescritte ore diverse. 
+                    <lb n="65" />
+                        Noi vagheggiamo questo tipo, il solo degno di un reggi
+                    <lb n="66" />
+                        mento rappresentativo. La legge sulla emigrazione, la legge     
+                    <lb n="67" />
+                        sull’<orig>ubbriachezza</orig><reg>ubriachezza</reg>, la legge del lavoro dei fanciulli esordi
+                    <lb n="68" />
+                        rebbero questa maniera di legislazione sociale, di cui le 
+                    <lb n="69" />
+                        popolazioni <rs type="nationality">italiane</rs> sentono il bisogno indistinto, e che i 
+                    <lb n="70" />
+                        <orig>publicisti</orig><reg>pubblicisti</reg> e i <roleName>legislatori</roleName> devono interpretare. Imperocché 
+                    <lb n="71" />
+                        per nostra sventura, mentre in <placeName>Inghilterra</placeName> il bisogno delle 
+                    <lb n="72" />
+                        grandi riforme sgorga dalle coscienze popolari, in <placeName>Italia</placeName> 
+                    <lb n="72" />
+                        l’oracolo è muto e sono pochi a indovinarne i pensieri e in
+                    <lb n="72" />
+                        terrogarne i secreti dolori, i quali perchè non fanno strepito,
+                    <lb n="72" />
+                        si negano dai soddisfatti e dagli sfaccendati magnifici.
+                </p>
+                </body>
+                </text>
 </TEI>
