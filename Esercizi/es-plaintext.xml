@@ -1,4 +1,4 @@
-  <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
   <!DOCTYPE TEI SYSTEM "tei_all.dtd">
   <!-- <?xml-model href="tei-lite.rng"?> -->
   <TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.0.1">
@@ -13,6 +13,9 @@
             <name>S. Solimani</name>
           </respStmt>
         </titleStmt>
+        <publicationStmt>
+        <publisher>Nessuno</publisher>
+        </publicationStmt>
         <sourceDesc>
           <bibl>
             <title>Data center e loro impatto</title>
@@ -23,10 +26,11 @@
       </fileDesc>
     </teiHeader>
     <text>
+    <body>
     <div>
     <p>I data center, o centri di elaborazione dati, sono delle infrastrutture fisiche in cui vengono 
     localizzate le apparecchiature ed i servizi di gestione delle risorse informatiche. Attualmente 
-    nel mondo se ne contano più di 7 milioni e, secondo le stime dell’Unione Europea, essi rappresentano quasi il 3% della domanda di elettricità dell’UE e il 2% dei produttori di emissioni globali di gas serra.</p> 
+    nel mondo se ne contano più di 7 milioni e, secondo le stime dell’Unione Europea, essi rappresentano quasi il 3% della domanda di elettricità dell’UE e il 2% dei produttori di emissioni globali di gas serra.</p>
     <p>A livello globale, i data center utilizzano più energia dell’intero consumo annuale del Regno 
     Unito (416,2 TwH contro 300 TwH; dati del 2016).</p> 
     <p>Secondo l’Agenzia Internazionale dell’Energia (IEA), i data center nel 2021 contribuivano già 
@@ -35,7 +39,7 @@
     globalmente circa 460 terawattora (TWh) nel 2022, i data center potrebbero arrivare a 
     consumare più di 1.000 TWh nel 2026. Questa domanda equivale all'incirca al consumo di 
     elettricità del Giappone. Questo consumo, oltre all’intelligenza artificiale, comprende anche i 
-    sistemi di raffreddamento dei server.</p> 
+    sistemi di raffreddamento dei server.</p>
     <p>Nonostante Apple (2,8 TWh), Google (18,3 TWh) e Meta (9,4 TWh) abbiano acquistato o 
     generato una quantità di elettricità rinnovabile sufficiente a coprire il 100% del loro consumo 
     operativo di elettricità nel 2021 (principalmente nei data center), ciò non significa che i singoli 
@@ -43,7 +47,7 @@
     delle fonti eoliche e solari potrebbe non corrispondere al profilo della domanda di un data 
     center e l’energia rinnovabile potrebbe essere acquistata da progetti in una rete o in una 
     regione diversa da quella in cui si trova la domanda.</p> 
-    La IEA suggerisce ai decisori politici di valutare la definizione di norme per la gestione del 
+    <p>La IEA suggerisce ai decisori politici di valutare la definizione di norme per la gestione del 
     calore di scarto dei datacenters, che potrebbe contribuire a riscaldare gli edifici commerciali 
     e residenziali vicini o a rifornire le utenze industriali di calore, riducendo il consumo di energia 
     da altre fonti. L’idea di usare il calore di scarto dei data center, stando a quanto riporta l’articolo di 
@@ -61,6 +65,7 @@
     emissioni di carbonio e a investire nelle energie rinnovabili, ma la rapida espansione delle loro 
     capacità di intelligenza artificiale continua a porre problemi di sostenibilità. (AI: pericolo o 
     promessa?)</p>
-    </div> 
+    </div>
+    </body>
     </text>
   </TEI>
