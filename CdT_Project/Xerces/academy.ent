@@ -1,0 +1,3 @@
+<!ATTLIST num
+    key CDATA #IMPLIED
+>
