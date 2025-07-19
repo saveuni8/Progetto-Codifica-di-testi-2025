@@ -6,11 +6,11 @@
             <teiHeader>
                 <fileDesc>
                     <titleStmt>
-                        <title>Codifica di articoli, notizie e bibliografie de La Rassegna Settimanale</title>
+                        <title>Codifica di articoli, notizie e bibliografie de La La Rassegna Settimanale</title>
                     </titleStmt>  
                     <editionStmt>
                         <edition>
-                        Edizione digitale de La Rassegna Settimanale 
+                        Edizione digitale de La La Rassegna Settimanale 
                         </edition>
                     <respStmt xml:id="Solimani">
                         <resp>Responsabile della codifica in XML TEI P5 per il progetto d'esame:</resp>
@@ -38,7 +38,7 @@
                     <sourceDesc>
                     <bibl>
                         <title level="j">
-                            Rassegna settimanale
+                            La La Rassegna Settimanale
                             <title type="sub">di politica, scienze, lettere ed arti</title>
                         </title>
                         <date from="1878" to="1882">dal 1878 al 1882</date>
@@ -52,7 +52,7 @@
                     <!-- Descrizione della pubblicazione successiva in digitale (PDF) -->
                         <editor>Leonardo Musci</editor>
                         <publisher>Associazione Nazionale per gli Interessi del Mezzogiorno d’Italia</publisher>
-                        <ref target="https://rassegnasettimanale.animi.it/#">Sito della Rassegna Settimanale</ref>
+                        <ref target="https://rassegnasettimanale.animi.it/#">Sito della La Rassegna Settimanale</ref>
 
                         <respStmt xml:id="CNI_spa">
                         <resp>Responsabile della digitalizzazione OCR:</resp>
@@ -1244,7 +1244,7 @@
                     <term type="literature-linguistics" xml:id="corrispondenza">Corrispondenza</term>
                 </label>
                 <item>
-                    <gloss corresp="#corrispondenza">In questo termine si intrecciano vari significati: il corrispondere, il corrispondersi, come rapporto reciproco fra elementi diversi, quindi convenienza, proporzione, simmetria, o conformità; il contraccambio di sentimenti, di affetti; un carteggio, scambio di lettere fra persone. Ma nel caso del testo la corrispondenza è più probabilmente intesa come relazione sugli avvenimenti di una città, di uno stato, che una persona appositamente incaricata (il «corrispondente») invia al suo giornale, in questo caso la Rassegna Settimanale. Fonte indicata per maggiori dettagli: <ref target="https://www.treccani.it/vocabolario/corrispondenza">Enciclopedia Treccani</ref></gloss>
+                    <gloss corresp="#corrispondenza">In questo termine si intrecciano vari significati: il corrispondere, il corrispondersi, come rapporto reciproco fra elementi diversi, quindi convenienza, proporzione, simmetria, o conformità; il contraccambio di sentimenti, di affetti; un carteggio, scambio di lettere fra persone. Ma nel caso del testo la corrispondenza è più probabilmente intesa come relazione sugli avvenimenti di una città, di uno stato, che una persona appositamente incaricata (il «corrispondente») invia al suo giornale, in questo caso la La Rassegna Settimanale. Fonte indicata per maggiori dettagli: <ref target="https://www.treccani.it/vocabolario/corrispondenza">Enciclopedia Treccani</ref></gloss>
                 </item>
                 <label>
                     <term type="geography" xml:id="costa">Costa</term>
@@ -1793,7 +1793,7 @@
                     <sourceDesc>
                         <bibl>
                             <title level="j">
-                                Rassegna settimanale
+                                La La Rassegna Settimanale
                             <title type="sub">di politica, scienze, lettere ed arti</title>
                             </title>
                             <author>
@@ -1956,7 +1956,7 @@
                 <!-- intestazione, prima pagina -->
                     <fw type="header" place="top" xml:id="Cod_Darwinismo1_header" facs="#Darwinismo1_intestazione">
                     <fw type="pageNum" place="left" xml:id="Cod_Darwinismo1_header_lefert" facs="#Darwinismo1_sx">34</fw>
-                    <fw type="title" place="center" xml:id="Cod_Darwinismo1_header_cent" facs="#Darwinismo1_titolo_rassegna">LA RASSEGNA SETTIMANALE</fw>
+                    <fw type="title" place="center" xml:id="Cod_Darwinismo1_header_cent" facs="#Darwinismo1_titolo_rassegna">LA La Rassegna SETTIMANALE</fw>
                     <fw type="issue" place="right" xml:id="Cod_Darwinismo1_header_right" facs="#Darwinismo1_dx">[Voi. 3°, N° 54.<milestone unit="headerBreak" /></fw>
                     </fw>
                     <!-- titolo, prima pagina -->
@@ -2075,7 +2075,7 @@
             <!-- intestazione, seconda pagina -->
                         <fw type="header" place="top" xml:id="Cod_Darwinismo2_header" facs="#Darwinismo2_intestazione">
                             <fw type="issue" place="left" xml:id="Cod_Darwinismo2_header_left" facs="#Darwinismo2_sx"><milestone unit="headerBreak" />12 Gennaio ’79.]</fw>
-                            <fw type="title" place="center" xml:id="Cod_Darwinismo2_header_center" facs="#Darwinismo2_titolo_rassegna">LA RASSEGNA SETTIMANALE</fw>
+                            <fw type="title" place="center" xml:id="Cod_Darwinismo2_header_center" facs="#Darwinismo2_titolo_rassegna">LA La Rassegna SETTIMANALE</fw>
                             <fw type="pageNum" place="right" xml:id="Cod_Darwinismo2_header_right" facs="#Darwinismo2_header_dx">35</fw>
                         </fw>
             <!-- righe, seconda pagina -->
@@ -2232,7 +2232,7 @@
                         <sourceDesc>
                         <bibl>
                             <title level="j">
-                                Rassegna settimanale
+                                La La Rassegna Settimanale
                                 <title type="sub">di politica, scienze, lettere ed arti</title>
                             </title>
                             <author>
@@ -2443,7 +2443,7 @@
                 <!-- intestazione, prima pagina -->
                     <fw type="header" place="top" xml:id="Cod_Parigi1_header" facs="#Parigi1_intestazione">
                     <fw type="date" place="left" xml:id="Cod_Parigi1_header_left" facs="#Parigi1_sx"><milestone unit="headerBreak" />27 Aprile '79.]</fw>
-                    <fw type="title" place="center" xml:id="Cod_Parigi1_header_center" facs="#Parigi1_titolo_rassegna">LA RASSEGNA SETTIMANALE</fw>
+                    <fw type="title" place="center" xml:id="Cod_Parigi1_header_center" facs="#Parigi1_titolo_rassegna">LA La Rassegna SETTIMANALE</fw>
                     <fw type="pageNum" place="right" xml:id="Cod_Parigi1_header_right" facs="#Parigi1_dx">325</fw>
                     </fw>
                     <!-- titolo, prima pagina -->
@@ -2500,7 +2500,7 @@
         <!-- intestazione, seconda pagina -->
                         <fw type="header" place="top" xml:id="Cod_Parigi2_header" facs="#Parigi2_intestazione">
                             <fw type="pageNum" place="left" xml:id="Cod_Parigi2_header_left" facs="#Parigi2_sx">326</fw>
-                            <fw type="title" place="center" xml:id="Cod_Parigi2_header_center" facs="#Parigi2_titolo_rassegna">LA RASSEGNA SETTIMANALE</fw>
+                            <fw type="title" place="center" xml:id="Cod_Parigi2_header_center" facs="#Parigi2_titolo_rassegna">LA La Rassegna SETTIMANALE</fw>
                             <fw type="issue" place="right" xml:id="Cod_Parigi2_header_right" facs="#Parigi2_header_dx">[Vol. 3°, N° 69.<milestone unit="headerBreak" /></fw>
                         </fw>
             <!-- righe, seconda pagina, prima colonna-->
@@ -2820,7 +2820,7 @@
             <sourceDesc>
             <bibl>
                 <title level="j">
-                Rassegna settimanale
+                La Rassegna Settimanale
                 <title type="sub">di politica, scienze, lettere ed arti</title>
                 </title>
                 <author>
@@ -2942,7 +2942,7 @@
         <!-- intestazione, prima pagina -->
                     <fw type="header" place="top" xml:id="Cod_DeAmicis_header" facs="#DeAmicis_intestazione">
                     <fw type="date" place="left" xml:id="Cod_DeAmicis_header_left" facs="#DeAmicis_sx"><milestone unit="headerBreak" />2 Febbraio '79.]</fw>
-                    <fw type="title" place="center" xml:id="Cod_DeAmicis_header_center" facs="#DeAmicis_titolo_rassegna">LA RASSEGNA SETTIMANALE</fw>
+                    <fw type="title" place="center" xml:id="Cod_DeAmicis_header_center" facs="#DeAmicis_titolo_rassegna">LA La Rassegna SETTIMANALE</fw>
                     <fw type="pageNum" place="right" xml:id="Cod_DeAmicis_header_right" facs="#DeAmicis_dx">97</fw>
                     </fw>
             <!-- titolo, prima pagina -->
@@ -3115,7 +3115,7 @@
             <sourceDesc>
             <bibl>
                <title level="j">
-               Rassegna settimanale
+               La Rassegna Settimanale
                <title type="sub">di politica, scienze, lettere ed arti</title>
                </title>
                <author xml:id="Panzacchi_anon_author">
@@ -3241,7 +3241,7 @@
             <!-- intestazione, prima pagina -->
             <fw type="header" place="top" xml:id="Cod_Panzacchi_header" facs="#Panzacchi_intestazione">
             <fw type="pageNum" place="left" xml:id="Cod_Panzacchi_header_left" facs="#Panzacchi_sx">194</fw>
-            <fw type="title" place="center" xml:id="Cod_Panzacchi_header_center" facs="#Panzacchi_titolo_rassegna">LA RASSEGNA SETTIMANALE</fw>
+            <fw type="title" place="center" xml:id="Cod_Panzacchi_header_center" facs="#Panzacchi_titolo_rassegna">LA La Rassegna SETTIMANALE</fw>
             <fw type="issue" place="right" xml:id="Cod_Panzacchi_header_right" facs="#Panzacchi_dx">[Vol. 3°, N° 62.<milestone unit="headerBreak" /></fw>
             </fw>
             <!-- titolo, prima pagina -->
@@ -3435,7 +3435,7 @@
                     <sourceDesc>
                         <bibl>
                             <title level="j">
-                                Rassegna settimanale
+                                La Rassegna Settimanale
                                 <title type="sub">di politica, scienze, lettere ed arti</title>
                             </title>
                             <author>Academy</author>
@@ -3479,7 +3479,7 @@
         <!-- intestazione, prima pagina -->
         <fw type="header" place="top" xml:id="Cod_Academy_header" facs="#Academy_intestazione">
         <fw type="pageNum" place="left" xml:id="Cod_Academy_header_left" facs="#Academy_sx">160</fw>
-        <fw type="title" place="center" xml:id="Cod_Academy_header_center" facs="#Academy_titolo_rassegna">LA RASSEGNA SETTIMANALE</fw>
+        <fw type="title" place="center" xml:id="Cod_Academy_header_center" facs="#Academy_titolo_rassegna">LA La Rassegna SETTIMANALE</fw>
         <fw type="issue" place="right" xml:id="Cod_Academy_header_right" facs="#Academy_dx">[Vol. 3°, N° 60.<milestone unit="headerBreak" /></fw>
         </fw>
         <p xml:id="Academy_paragrafo1" n="1">
@@ -3527,7 +3527,7 @@
                     <sourceDesc>
                         <bibl>
                             <title level="j">
-                                Rassegna settimanale
+                                La Rassegna Settimanale
                                 <title type="sub">di politica, scienze, lettere ed arti</title>
                             </title>
                             <author>Academy</author>
@@ -3572,7 +3572,7 @@
             <!-- intestazione -->
             <fw type="header" place="top" xml:id="Cod_Belge_header" facs="#Belge_intestazione">
             <fw type="pageNum" place="left" xml:id="Cod_Belge_header_left" facs="#Belge_sx">20</fw>
-            <fw type="title" place="center" xml:id="Cod_Belge_header_center" facs="#Belge_titolo_rassegna">LA RASSEGNA SETTIMANALE</fw>
+            <fw type="title" place="center" xml:id="Cod_Belge_header_center" facs="#Belge_titolo_rassegna">LA La Rassegna SETTIMANALE</fw>
             <fw type="issue" place="right" xml:id="Cod_Belge_header_right" facs="#Belge_dx">[Vol. 3°, N° 53.<milestone unit="headerBreak" /></fw></fw>
             <!--righe-->
             <p xml:id="Belge_paragrafo1" n="1">
