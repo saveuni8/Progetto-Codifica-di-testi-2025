@@ -63,16 +63,16 @@
         <lg type="poem">
           <l n="1" facs="#riga1" xml:id="Cod_riga1"><note type="gloss">Mio caro Bi....</note></l>
           <!-- Altre righe possono essere aggiunte qui -->
-          <l n="2" xml:id="Cod_riga2" facs="#riga2"><note type="gloss">Avendo <gap reason="uncertain"><desc>presso</desc></gap> l'intero duetto</note></l>
-          <l n="3" xml:id="Cod_riga3" facs="#riga3"><note type="gloss">e mancando in <gap reason="uncertain"><desc>esso</desc></gap> qualche</note></l>
+          <l n="2" xml:id="Cod_riga2" facs="#riga2"><note type="gloss">Avendo <unclear><desc>presso</desc></unclear> l'intero duetto</note></l>
+          <l n="3" xml:id="Cod_riga3" facs="#riga3"><note type="gloss">e mancando in <unclear><desc>esso</desc></unclear> qualche</note></l>
           <l n="4" xml:id="Cod_riga4" facs="#riga4"><note type="gloss">cosetta, desidererei che tu</note></l>
-          <l n="5" xml:id="Cod_riga5" facs="#riga5"><note type="gloss">l'<gap reason="uncertain"><desc>incommodogli</desc></gap> a venire a</note></l>
+          <l n="5" xml:id="Cod_riga5" facs="#riga5"><note type="gloss">l'<unclear><desc>incommodogli</desc></unclear> a venire a</note></l>
           <l n="6" xml:id="Cod_riga6" facs="#riga6"><note type="gloss"><gap reason="illegible"><desc>Cuteau</desc></gap> per tutto fissare e</note></l>
           <l n="7" xml:id="Cod_riga7" facs="#riga7"><note type="gloss">sull'<gap reason="illegible"><desc>ipepo tempo</desc></gap> lessimo la</note></l>
-          <l n="8" xml:id="Cod_riga8" facs="#riga8"><note type="gloss">sortita di <gap reason="uncertain"><desc>Vubiani</desc></gap>, se è sen</note></l>
+          <l n="8" xml:id="Cod_riga8" facs="#riga8"><note type="gloss">sortita di <unclear><desc>Vubiani</desc></unclear>, se è sen</note></l>
           <l n="9" xml:id="Cod_riga9" facs="#riga9"><note type="gloss">sata. T'aspetto in quel giorno</note></l>
-          <l n="10" xml:id="Cod_riga10" facs="#riga10"><note type="gloss">ed in qual<gap reason="missing"><desc>c</desc></gap>osa <gap reason="uncertain"><desc>ormai</desc></gap></note></l>
-          <lb n="11" xml:id="Cod_firma" facs="#firma"/><closer ><signed><gap reason="uncertain"><desc>Gillio</desc></gap> Mario <gap reason="uncertain"><desc>Nungitto</desc></gap></signed></closer>      
+          <l n="10" xml:id="Cod_riga10" facs="#riga10"><note type="gloss">ed in qual<gap reason="missing"><desc>c</desc></gap>osa <unclear><desc>ormai</desc></unclear></note></l>
+          <lb n="11" xml:id="Cod_firma" facs="#firma"/><closer><signed><unclear><desc>Gillio</desc></unclear> Mario <unclear><desc>Nungitto</desc></unclear></signed></closer>      
         </lg>
       </p>
     </div>
